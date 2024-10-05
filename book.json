@@ -1,8 +1,5 @@
 {
-  "plugins": ["meta-single"]
-}
-
-{
+  "plugins": ["meta-single"],
   "pluginsConfig": {
     "meta-single": {
       "name": "google-site-verification",
