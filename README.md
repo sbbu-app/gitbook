@@ -1,6 +1,7 @@
-# Welcome to Our Documentation
+<!-- Google Site Verification Meta Tag -->
+<meta name="google-site-verification" content="google5727c371b3c12df0">
 
-![Company Logo](https://example.com/logo.png)
+# Welcome to Our Documentation
 
 ## Introduction
 
