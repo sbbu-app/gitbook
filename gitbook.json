@@ -1,9 +1,16 @@
 {
-  "plugins": ["meta-single"],
-  "pluginsConfig": {
-    "meta-single": {
-      "name": "google-site-verification",
-      "content": "google5727c371b3c12df0"
+    "plugins": [
+        "meta"
+    ]
+}
+{
+    "plugins": [
+        "meta"
+    ],
+    "pluginsConfig": {
+        "meta": {
+            "name": "google-site-verification",
+            "content": "google5727c371b3c12df0"
+        }
     }
-  }
 }
