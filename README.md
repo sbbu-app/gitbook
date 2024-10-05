@@ -1,8 +1,15 @@
-<!-- Google Site Verification Meta Tag -->
-<meta name="google-site-verification" content="google5727c371b3c12df0">
+<!doctype html>
+<!-- ✨ Built with Framer • https://www.framer.com/ -->
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="g-CsAqPdCj6ZNBzGRU0lz7EJTvAvhBiGnjRIkGKZwt0" />
 
-# Welcome to Our Documentation
+    </head>
+    <body>
 
-## Introduction
-
-Welcome to the official documentation for our product/service. This comprehensive guide will walk you through all the features, setup instructions, and best practices to help you get the most out of our
+    <h2>Hello</h2>
+       
+    <!-- End of bodyEnd -->
+</body>
+</html>
